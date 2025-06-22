@@ -39,12 +39,12 @@
   <card id="2006" passcode="85742772">Gravity Bind</card>
   <card id="2006" passcode="85742772">Gravity Bind</card>
   <card id="3143" passcode="54704216">Nightmare Wheel</card>
-  <card id="3143" passcode="54704216">Nightmare Wheel</card>
   <card id="3043" passcode="05318639">Mystical Space Typhoon</card>
+  <card id="3143" passcode="54704216">Nightmare Wheel</card>  
  </main>
- <side>
-  <card id="4443" passcode="64697231">Trap Dustshoot</card>  
+ <side>  
   <card id="2746" passcode="13626450">Malice Dispersion</card>
+  <card id="4443" passcode="64697231">Trap Dustshoot</card>  
   <card id="3706" passcode="73915051">Scapegoat</card>
   <card id="3706" passcode="73915051">Scapegoat</card>
   <card id="4376" passcode="36361633">Threatening Roar</card>
