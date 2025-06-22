@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<deck name="GF_PandaBurn++9">
+ <main>
+  <card id="4466" passcode="33184167">Tribe-Infecting Virus</card>
+  <card id="3695" passcode="26202165">Sangan</card>
+  <card id="864" passcode="34124316">Cyber Jar</card>
+  <card id="2966" passcode="33508719">Morphing Jar</card>
+  <card id="2068" passcode="09817927">Gyaku-Gire Panda</card>
+  <card id="2068" passcode="09817927">Gyaku-Gire Panda</card>
+  <card id="2068" passcode="09817927">Gyaku-Gire Panda</card>
+  <card id="1847" passcode="97017120">Giant Rat</card>
+  <card id="1847" passcode="97017120">Giant Rat</card>
+  <card id="1847" passcode="97017120">Giant Rat</card>
+  <card id="1494" passcode="74131780">Exiled Force</card>
+  <card id="2260" passcode="79575620">Injection Fairy Lily</card>
+  <card id="1961" passcode="79571449">Graceful Charity</card>
+  <card id="3346" passcode="55144522">Pot of Greed</card>
+  <card id="1852" passcode="42703248">Giant Trunade</card>
+  <card id="1852" passcode="42703248">Giant Trunade</card>
+  <card id="1852" passcode="42703248">Giant Trunade</card>
+  <card id="4158" passcode="72302403">Swords of Revealing Light</card>
+  <card id="2565" passcode="03136426">Level Limit - Area B</card>
+  <card id="2565" passcode="03136426">Level Limit - Area B</card>
+  <card id="528" passcode="14087893">Book of Moon</card>
+  <card id="528" passcode="14087893">Book of Moon</card>
+  <card id="3158" passcode="71044499">Nobleman of Crossout</card>
+  <card id="3158" passcode="71044499">Nobleman of Crossout</card>
+  <card id="530" passcode="38699854">Book of Taiyou</card>
+  <card id="3894" passcode="97169186">Smashing Ground</card>
+  <card id="2370" passcode="24068492">Just Desserts</card>
+  <card id="2370" passcode="24068492">Just Desserts</card>
+  <card id="2370" passcode="24068492">Just Desserts</card>
+  <card id="3751" passcode="27053506">Secret Barrel</card>
+  <card id="3751" passcode="27053506">Secret Barrel</card>
+  <card id="3204" passcode="29843091">Ojama Trio</card>
+  <card id="3204" passcode="29843091">Ojama Trio</card>
+  <card id="3592" passcode="83555666">Ring of Destruction</card>
+  <card id="2671" passcode="62279055">Magic Cylinder</card>
+  <card id="2006" passcode="85742772">Gravity Bind</card>
+  <card id="2006" passcode="85742772">Gravity Bind</card>
+  <card id="3143" passcode="54704216">Nightmare Wheel</card>
+  <card id="3143" passcode="54704216">Nightmare Wheel</card>
+  <card id="4443" passcode="64697231">Trap Dustshoot</card>
+ </main>
+ <side>
+  <card id="3043" passcode="05318639">Mystical Space Typhoon</card>
+  <card id="2746" passcode="13626450">Malice Dispersion</card>
+  <card id="3706" passcode="73915051">Scapegoat</card>
+  <card id="3706" passcode="73915051">Scapegoat</card>
+  <card id="4376" passcode="36361633">Threatening Roar</card>
+  <card id="2330" passcode="41855169">Jowgen the Spiritualist</card>
+  <card id="109" passcode="91869203">Amazoness Archer</card>
+  <card id="4564" passcode="56747793">United We Stand</card>
+  <card id="2429" passcode="79853073">Cipher Soldier</card>
+  <card id="2429" passcode="79853073">Cipher Soldier</card>
+  <card id="4731" passcode="38992735">Wave-Motion Cannon</card>
+  <card id="4731" passcode="38992735">Wave-Motion Cannon</card>
+  <card id="2487" passcode="40640057">Kuriboh</card>
+  <card id="3107" passcode="11021521">Neko Mane King</card>
+  <card id="2841" passcode="44656491">Messenger of Peace</card>
+ </side>
+ <extra>
+  <card id="4375" passcode="63519819">Thousand-Eyes Restrict</card>
+  <card id="4375" passcode="63519819">Thousand-Eyes Restrict</card>
+  <card id="4375" passcode="63519819">Thousand-Eyes Restrict</card>
+  <card id="1259" passcode="70681994">Dragoness the Wicked Knight</card>
+  <card id="1608" passcode="58528964">Flame Ghost</card>
+  <card id="1047" passcode="17881964">Darkfire Dragon</card>
+  <card id="3497" passcode="85684223">Reaper on the Nightmare</card>
+  <card id="955" passcode="80071763">Dark Balter the Terrible</card>
+  <card id="1567" passcode="66235877">Fiend Skull Dragon</card>
+  <card id="3662" passcode="49868263">Ryu Senshi</card>
+  <card id="958" passcode="86805855">Dark Blade the Dragon Knight</card>
+  <card id="3201" passcode="90140980">Ojama King</card>
+  <card id="2430" passcode="13756293">King Dragun</card>
+  <card id="4309" passcode="86099788">The Last Warrior from Another Planet</card>
+  <card id="1755" passcode="87751584">Gatling Dragon</card>
+ </extra>
+</deck>
